@@ -8,7 +8,7 @@ I am a coding enthusiast who loves to learn new things. Apart from that I play g
 
 * 🌍  I'm based in Vadodara
 * ✉️  You can contact me at [pateljil16@gmail.com](mailto:pateljil16@gmail.com)
-* 🧠  I'm learning PHP Laravel and Data Science
+* 🧠  I'm learning PHP Laravel and AI
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Badges
